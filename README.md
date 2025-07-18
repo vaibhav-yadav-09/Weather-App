@@ -12,16 +12,16 @@ Includes temperature, humidity, wind, visibility, sunrise, and sunset — all wi
 ## How to Run
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/weather-app.git
+1. Clone the repo
+git clone https://github.com/vaibhav-yadav-09/Weather-App.git
 cd weather-app
 
-# 2. Install dependencies
+2. Install dependencies
 npm install
 
-# 3. Add your OpenWeatherMap API key
-#    → In App.jsx: replace the value of API_KEY with your key
+3. Add your OpenWeatherMap API key
+→ In App.jsx: replace the value of API_KEY with your key
 
-# 4. Run the app
+4. Run the app
 npm start
 ```
