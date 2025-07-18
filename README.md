@@ -1,7 +1,7 @@
 ## Weather App
 
 A simple React app that shows real-time weather for any city using the OpenWeatherMap API.  
-Includes temperature, humidity, wind, visibility, sunrise, and sunset — all with a dynamic weather background.
+Includes temperature, humidity, wind, visibility, sunrise, and sunset - all with a dynamic weather background.
 
 ## Features
 - Live weather data
